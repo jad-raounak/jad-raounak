@@ -37,10 +37,7 @@ A sample of my recent articles:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jad-raounak/jad-raounak">
-  <img align="center" src="https://github-readme-stats-alpha-six-17.vercel.app/api/top-langs/?username=jad-raounak&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/jad-raounak/jad-raounak">
-  <img align="center" src="https://github-readme-stats-alpha-six-17.vercel.app/api?username=jad-raounak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-alpha-six-17.vercel.app/api?username=jad-raounak&show_icons=true&theme=dracula&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->

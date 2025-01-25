@@ -2,7 +2,7 @@
 
 [![Header](https://github.com/jad-raounak/jad-raounak/blob/38d13a1223f1b9fcc73b208192fa903d05293bb6/readme_header.png "Header")](https://martinheinz.dev/)
 
-<!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> -->
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is Jad raounak and I'm a software developer. I'm from Morocco, You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 

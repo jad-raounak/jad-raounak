@@ -58,7 +58,7 @@ A sample of my recent articles:
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[3]: https://www.linkedin.com/in/jad-raounak-301289220
 
 
 <!-- Resources -->

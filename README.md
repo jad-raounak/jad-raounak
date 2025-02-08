@@ -1,8 +1,8 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://github.com/jad-raounak/jad-raounak/blob/38d13a1223f1b9fcc73b208192fa903d05293bb6/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](https://github.com/jad-raounak/jad-raounak/blob/38d13a1223f1b9fcc73b208192fa903d05293bb6/readme_header.png "Header")]
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, folks! <img src="https://github.com/jad-raounak/jad-raounak/blob/cd71500e4c5e4f9be413429155f0958c5ca8de76/wave.gif" width="30px" height="30px" />
 
 My name is Jad raounak ,I'm a software developer from Morocco, You can find me on [![LinkedIn][3.2]][3].
 
